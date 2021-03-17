@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ScavangerRace">
+    <output-path>$PROJECT_DIR$/out/artifacts/ScavangerRace</output-path>
+    <root id="archive" name="ScavangerRace.jar">
+      <element id="module-output" name="ScavangerRace" />
+      <element id="library" level="project" name="Maven: com.github.Sven65.Item-Names:ItemNames:1.0.0" />
+    </root>
+  </artifact>
+</component>
